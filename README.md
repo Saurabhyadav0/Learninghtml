@@ -1,2 +1,2 @@
-# learnninghtml
- this is for tracking my web dev learnings
+# learningHTML
+ this is for tracking my HTML learning
